@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+@media (min-width: 1200px){
+	section{
+		margin-left: 150px;
+		margin-right: 150px;
+		
+	}
+}
+*{
+	font-family: 微軟正黑體;
+/*	border: 1px solid;*/
+}
+.btn{
+/*	margin-top: 10px;*/
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.jumbotron{
+	padding-top: 70px;
+}
+
+.lead{
+	padding-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mention,.col-lg-8{
+	margin-left: auto;
+	margin-right: auto;
+}
+.navbar-brand{
+	font-weight: bold;
+}
+.display-4{
+	font-weight: bold;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: bold;
+	line-height: 1.5;
+	margin-top: 0px;
+}
+section{
+	padding: 30px;
+	padding-top: 0px;
+}
+.table,li{
+	line-height: 1.5;
+	text-align: left;
+}
+h4{
+	margin-top: 15px;
+}
+h5{
+	margin-top: 20px;
+}
+.table{
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.Sidebar{
+	text-align: center;
+}
+.text{
+	padding-top: 15px;
+}
+#p1{
+	padding-top: 80px;
+}
+#p2{
+	padding-top: 80px;
+}
+#p2-2{
+	padding-top: 80px;
+}
+#p3{
+	padding-top: 80px;
+}
+#p3-1{
+	padding-top: 80px;
+}
+#p3-2{
+	padding-top: 80px;
+}
+#p4{
+	padding-top: 80px;
+}
+#p4-1{
+	padding-top: 80px;
+}
+#p5{
+	padding-top: 80px;
+}
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+footer{
+	padding-top: 20px;
+}
+.btns{
+	padding-top: 10px;
+}
